@@ -12,7 +12,5 @@ Hello, I'm Enes Can. <br>I am currently developing Quality Control software at a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EnesCanYilmaz&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesCanYilmaz&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Enescanylmaz)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
