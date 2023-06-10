@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Enes Can. <br>I am currently developing Quality Control software at a company. <br>I am currently developing myself on Dotnet technologies.
+Hello, I'm Enes Can. <br>I work as a backend developer at Doğuş Teknoloji. <br>I am currently developing myself on Dotnet technologies.
 
 
 ## 🌐 Socials:
